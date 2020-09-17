@@ -30,7 +30,7 @@ public class Application {
 				int days = sc.nextInt();
 				double rent=product.printEstimate(select,days);
 				totalRent+=rent;
-				System.out.println("ALL ITEM TOTAL:"+totalRent);
+				
 			}
 			else {
 				System.out.println("ENTER VALUE BETWEEN 1-2");
@@ -45,7 +45,7 @@ public class Application {
 			
 		}while(proceed.equalsIgnoreCase("YES"));
 		
-		
+		System.out.println("ALL ITEM TOTAL:"+totalRent);
 		System.out.println("THANK YOU ");
 		sc.close();
 		
