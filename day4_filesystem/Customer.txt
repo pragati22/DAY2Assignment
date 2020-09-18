@@ -1,0 +1,8 @@
+Customer [customerId=123, customerName=Ram, mobileNumber=97888989, email=ram@gmail.com]
+Customer [customerId=123, customerName=Rajesh, mobileNumber=97888989, email=ram@gmail.com]
+Customer [customerId=123, customerName=Rajesh, mobileNumber=97888989, email=ram@gmail.com]
+Customer [customerId=123, customerName=Rajesh, mobileNumber=97888989, email=ram@gmail.com]
+Customer [customerId=120, customerName=sia, mobileNumber=95555989, email=sia@gmail.com]
+Customer [customerId=120, customerName=sia, mobileNumber=95555989, email=sia@gmail.com]
+Customer [customerId=120, customerName=sia, mobileNumber=95555989, email=sia@gmail.com]
+Customer [customerId=120, customerName=sia, mobileNumber=95555989, email=sia@gmail.com]
